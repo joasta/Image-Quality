@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Edges", "Edges.pyproj", "{D74E0B4E-5B40-4915-B308-38818D519F7F}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "img_quality", "img_quality.pyproj", "{D74E0B4E-5B40-4915-B308-38818D519F7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
